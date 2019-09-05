@@ -1,0 +1,15 @@
+current directory: /Users/kei/test_rails/vendor/bndle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/kei/.rbenv/versions/2.6.3/bin/ruby -I /Users/kei/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190906-12449-1nidbbh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kei/test_rails/vendor/bndle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/kei/test_rails/vendor/bndle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/kei/test_rails/vendor/bndle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190906-12449-6qqwna/skiptrace/internal
